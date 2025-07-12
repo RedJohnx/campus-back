@@ -1,0 +1,17 @@
+SL No,Description,Service Tag,Identification Number,Procurement Date,Cost,Location,Department,updated_by
+123456,abcd,123,321,2025-04-04,789789.0,DES 507,CSE,generalkaaai@gmail.com
+1,Dell OptiPlex 7090 Desktop,DT001SRV,CSE-DT-001,2023-01-15,45000.0,CSE Lab 1,CSE,
+2,HP LaserJet Pro Printer,HP002PRT,CSE-PR-001,2022-11-20,12000.0,CSE Lab 1,CSE,
+3,Dell 24-inch Monitor,DL003MON,CSE-MN-001,2023-03-10,15000.0,CSE Lab 2,CSE,
+4,Cisco Catalyst 2960 Switch,CS004NET,ECE-NT-001,2023-02-05,35000.0,ECE Network Lab,ECE,
+5,Oscilloscope - Tektronix,TK005OSC,EEE-OS-001,2022-12-18,125000.0,EEE Electronics Lab,EEE,
+6,HP Workstation Z440,HP006WKS,CSE-WS-001,2023-01-25,85000.0,CSE Research Lab,CSE,
+7,Projector - Epson EB-X05,EP007PRJ,GEN-PJ-001,2022-10-12,28000.0,Auditorium,General,
+8,Network Attached Storage,SY008NAS,IT-ST-001,2023-04-20,95000.0,Server Room,IT,
+9,UPS - APC Smart-UPS,AP009UPS,GEN-UP-001,2022-09-30,22000.0,Main Power Room,General,
+10,Server - Dell PowerEdge R740,DL010SRV,IT-SV-001,2023-05-15,180000.0,Data Center,IT,
+11,Laptop - ThinkPad X1 Carbon,LN011LAP,CSE-LP-001,2023-06-01,95000.0,Faculty Room,CSE,
+12,Digital Multimeter,FL012DMM,EEE-DM-001,2022-08-14,8500.0,EEE Lab 3,EEE,
+13,Spectrum Analyzer,KS013SPA,ECE-SA-001,2023-02-28,145000.0,ECE RF Lab,ECE,
+14,Industrial Robot Arm,KB014ROB,ME-RB-001,2023-03-22,450000.0,Mechanical Lab,ME,
+15,Air Conditioning Unit,LG015AC,GEN-AC-001,2022-05-10,65000.0,Computer Lab,General,

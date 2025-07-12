@@ -1,0 +1,17 @@
+Flask
+Flask-CORS
+pymongo
+firebase-admin
+python-dotenv
+PyJWT
+pandas
+openpyxl
+requests
+email-validator
+Werkzeug
+fpdf
+matplotlib
+numpy
+python-Levenshtein==0.23.0
+fuzzywuzzy==0.18.0
+chardet==5.2.0
